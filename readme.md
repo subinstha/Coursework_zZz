@@ -35,7 +35,7 @@ A Project By group zZz from ADC-5
 
     GitHub Repo Link:
 
-        https://github.com/sthasubin429/Coursework_zZz
+        https://github.com/subinstha/Coursework_zZz
 
 
 
